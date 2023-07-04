@@ -1,0 +1,1 @@
+In this project the goal is to setup a webpage with an index linking to multiple recipe pages. Each recipe page demonstrates the ability to add photos, create paragraphs of text, and create ordered and unordered lists.
